@@ -1,6 +1,4 @@
-
-  
-#                                                                 LI-FI Text Data Transmit Using Arduino Flutter
+<h1 align="center">LI-FI Text Data Transmit Using Arduino Flutter</h1>
 
 <hr>
 <h1 align="center">
