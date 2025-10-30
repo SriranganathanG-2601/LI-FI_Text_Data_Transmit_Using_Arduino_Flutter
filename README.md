@@ -6,7 +6,7 @@
 <h1 align="center">
 Welcome to my project</h1>
 
-Transmit Data from Phone to Arduino using Light Signals
+<h1 align="center">Transmit Data from Phone to Arduino using Light Signals</h1>
 
 <hr>
 
